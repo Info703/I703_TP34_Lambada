@@ -111,15 +111,15 @@ CODE ENDS
 
 ## Émulateur pour la machine à pile
 
-Vous trouverez un émulateur pour la machine à registres ici : [vm-0.8.jar](./vm-0.8.jar).
+Vous trouverez un émulateur pour la machine à registres ici : [vm-0.9.jar](./vm-0.9.jar).
 
 Il s'utilise de la façon suivante :
 
-`java -jar vm-0.8.jar pgcd.asm`
+`java -jar vm-0.9.jar pgcd.asm`
 
 ou
 
-`java -jar vm-0.8.jar pgcd.asm --debug`
+`java -jar vm-0.9.jar pgcd.asm --debug`
 
 ## À rendre :
 
