@@ -125,4 +125,4 @@ ou
 
 À la fin du tp, vous ferez une présentation intermédiaire de votre compilateur, de l'ordre de 5 minutes, à l'enseignant qui vous encadre en tp.
 
-Avant le 4 janvier 2021, sous la forme d'un fichier d'un lien vers un dépot git), vous devez envoyer un petit compte-rendu avec des exemples bien choisis de génération de code et l'ensemble de vos fichiers source à l'enseignant qui vous encadre en tp (Stephane.Talbot@univ-smb.fr / Francois.Boussion@univ-smb.fr).
+Avant le 4 janvier 2021, sous la forme d'un fichier d'un lien vers un dépot git, vous devez envoyer un petit compte-rendu avec des exemples bien choisis de génération de code et l'ensemble de vos fichiers source à l'enseignant qui vous encadre en tp (Stephane.Talbot@univ-smb.fr / Francois.Boussion@univ-smb.fr).
